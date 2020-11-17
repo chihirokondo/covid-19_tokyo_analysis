@@ -5,6 +5,7 @@
 jupyter (python3) 環境が必要です。
 
 ### サードパーティライブラリ
+以下のサードパーティライブラリを使用しています。
 - requests
 - matplotlib
 - pandas
