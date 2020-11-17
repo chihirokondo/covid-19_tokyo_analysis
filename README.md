@@ -2,7 +2,7 @@
 東京都における新型コロナウィルスの感染状況を都の公開している[サイト](https://stopcovid19.metro.tokyo.lg.jp/data/130001_tokyo_covid19_patients.csv)から取得し、解析するコード。
 
 ## 実行環境
-jupyter (python3)
+jupyter (python3) 環境が必要です。
 
 ### サードパーティライブラリ
 - requests
